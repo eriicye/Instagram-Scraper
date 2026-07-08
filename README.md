@@ -19,6 +19,7 @@ Overall, this was an incredibly fun program to write; it taught me a lot about A
 ### 1. Dependencies 📋
 - Python 3.0+
 - IDE or Editor for Python
+- Instagrapi library installed
 
 ### 2. Clone Project 🖨️
 Run the following command:  
