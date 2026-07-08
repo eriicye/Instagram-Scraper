@@ -33,7 +33,7 @@ Open the project in your preferred Editor or IDE
 - Instagrapi Library
 
 ## Contact me 📞
-Email: eriiicye@gmail.com
+Email: eriiicye@gmail.com  
 Project Link: https://github.com/eriicye/Instagram-Scraper
 
 ## Credits 🤝
