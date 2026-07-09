@@ -23,7 +23,7 @@ Overall, this was an incredibly fun program to write; it taught me a lot about A
 
 ### 2. Clone Project 🖨️
 Run the following command:  
-```git@github.com:eriicye/Instagram-Scraper.git```  
+```git clone git@github.com:eriicye/Instagram-Scraper.git```  
 
 ### 3. Open Project 📂
 Open the project in your preferred Editor or IDE
